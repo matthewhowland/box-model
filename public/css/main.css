@@ -8,29 +8,43 @@ body {
 }
 
 .box-sm {
-
+height: 165px;
+width: 480px;
 }
 
 .box-md {
-
+height: 216px;
+width: 534px;
+padding-left: 47px;
+padding-top: 43px;
 }
 
 .box-lg{
-
+height: 344px;
+width: 715px;
+padding-left: 140px;
+padding-right: 25px;
+padding-top: 70px;
+padding-bottom: 0px;
+margin-left: 26px;
+margin-top: 107px;
 }
 
 .border{
-
+border-color: #000000;
+border-width: 9px;
+border-style: solid;
+border-radius: 5px;
 }
 
 #yellow {
-
+background-color: #ffff00;
 }
 
 #red {
-
+background-color: #ff0000;
 }
 
-#lightblue{
-
+#blue{
+background-color: #00ffff;
 }
